@@ -1,3 +1,6 @@
 Christopher Harrison asked me to add the live server extension to VSCode, the one by Ritwick dey. So i just did that.
 
 https://docs.microsoft.com/en-us/learn/browse/ - Useful link for my learning.
+
+How to know the version of dotnet I am using?
+Open a new terminal and type: dotnet --version
