@@ -4,3 +4,6 @@ https://docs.microsoft.com/en-us/learn/browse/ - Useful link for my learning.
 
 How to know the version of dotnet I am using?
 Open a new terminal and type: dotnet --version
+
+How to open a github repository in VSCode web editor?
+Just go the repository and type . i.e, dot
